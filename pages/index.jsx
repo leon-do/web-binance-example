@@ -1,24 +1,16 @@
-import Link from "next/link";
-import axios from "axios";
+import React from "react";
+import NavComponent from "../components/NavComponent";
 
 function HomePage(props) {
   return (
-    <div>
-      <h1>Binance Articles</h1>
-      {props.pages.map(page => (
-        <div>
-          <Link href='/page' as={page.slug}>
-            {page.title}
-          </Link>
-        </div>
-      ))}
-    </div>
+    <React.Fragment>
+      <NavComponent></NavComponent>
+      <div className="container">
+        <h1> Home Page </h1>
+        <p> This is the home page. Click the links above to view articles </p>
+      </div>
+    </React.Fragment>
   );
 }
-
-HomePage.getInitialProps = async () => {
-  const res = await axios.get("https://binance-api-example.herokuapp.com/");
-  return { pages: res.data };
-};
 
 export default HomePage;
