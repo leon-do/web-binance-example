@@ -11,7 +11,7 @@ class NavComponent extends Component {
     };
   }
   async componentDidMount() {
-    const res = await axios.get("https://binance-api-example.herokuapp.com/");
+    const res = await axios.get("https://api-binance-example.herokuapp.com/");
     this.setState({ pages: res.data });
   }
   render() {

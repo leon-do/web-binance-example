@@ -23,7 +23,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/components/HeaderComponent.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/components/HeaderComponent.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 
@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/components/NavComponent.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/components/NavComponent.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
@@ -139,7 +139,7 @@ function (_Component) {
           switch (_context.prev = _context.next) {
             case 0:
               _context.next = 2;
-              return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_8___default.a.get("https://binance-api-example.herokuapp.com/"));
+              return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_8___default.a.get("https://api-binance-example.herokuapp.com/"));
 
             case 2:
               res = _context.sent;
@@ -7046,10 +7046,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Findex.jsx!./":
-/*!**********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Findex.jsx ***!
-  \**********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx!./":
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx ***!
+  \********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12726,7 +12726,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_NavComponent__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/NavComponent */ "./components/NavComponent.jsx");
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/pages/index.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/pages/index.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -12771,13 +12771,13 @@ function HomePage(props) {
 /***/ }),
 
 /***/ 2:
-/*!**************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Findex.jsx ***!
-  \**************************************************************************************************************************************/
+/*!************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx ***!
+  \************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Findex.jsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Findex.jsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx!./");
 
 
 /***/ }),

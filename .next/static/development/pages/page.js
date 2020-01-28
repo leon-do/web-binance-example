@@ -23,7 +23,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/components/HeaderComponent.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/components/HeaderComponent.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 
@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/components/NavComponent.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/components/NavComponent.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement;
 
 
@@ -139,7 +139,7 @@ function (_Component) {
           switch (_context.prev = _context.next) {
             case 0:
               _context.next = 2;
-              return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_8___default.a.get("https://binance-api-example.herokuapp.com/"));
+              return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_8___default.a.get("https://api-binance-example.herokuapp.com/"));
 
             case 2:
               res = _context.sent;
@@ -7046,10 +7046,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Fpage.jsx!./":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Fpage.jsx ***!
-  \*************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Fpage.jsx!./":
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Fpage.jsx ***!
+  \***********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12731,7 +12731,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "/Users/leondo/Desktop/web-binance-example/pages/page.jsx";
+var _jsxFileName = "/Users/leondo/Desktop/binance/web-binance-example/pages/page.jsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -12780,7 +12780,7 @@ About.getInitialProps = function _callee(props) {
         case 0:
           path = props.asPath.slice(1);
           _context.next = 3;
-          return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_3___default.a.get("https://binance-api-example.herokuapp.com/"));
+          return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.awrap(axios__WEBPACK_IMPORTED_MODULE_3___default.a.get("https://api-binance-example.herokuapp.com/"));
 
         case 3:
           res = _context.sent;
@@ -12806,13 +12806,13 @@ About.getInitialProps = function _callee(props) {
 /***/ }),
 
 /***/ 3:
-/*!*****************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Fpage.jsx ***!
-  \*****************************************************************************************************************************************/
+/*!***************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Fpage.jsx ***!
+  \***************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Fpage.jsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fweb-binance-example%2Fpages%2Fpage.jsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Fpage.jsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fpage&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Fpage.jsx!./");
 
 
 /***/ }),
