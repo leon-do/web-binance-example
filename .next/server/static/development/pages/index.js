@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -199,7 +199,7 @@ class NavComponent extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       },
       __self: this
     }), __jsx("nav", {
-      className: "navbar navbar-expand-lg navbar-light bg-light",
+      className: "navbar navbar-expand-lg navbar-light bg-dark",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 21
@@ -1987,7 +1987,7 @@ function HomePage(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*******************************!*\
   !*** multi ./pages/index.jsx ***!
   \*******************************/

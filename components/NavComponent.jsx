@@ -18,7 +18,7 @@ class NavComponent extends Component {
     return (
       <React.Fragment>
         <HeaderComponent></HeaderComponent>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-dark">
           <a className="navbar-brand" href="/">
             Articles
           </a>

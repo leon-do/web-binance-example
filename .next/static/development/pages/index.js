@@ -170,7 +170,7 @@ function (_Component) {
         },
         __self: this
       }), __jsx("nav", {
-        className: "navbar navbar-expand-lg navbar-light bg-light",
+        className: "navbar navbar-expand-lg navbar-light bg-dark",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21
@@ -12770,7 +12770,7 @@ function HomePage(props) {
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fleondo%2FDesktop%2Fbinance%2Fweb-binance-example%2Fpages%2Findex.jsx ***!
   \************************************************************************************************************************************************/
@@ -12793,5 +12793,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
